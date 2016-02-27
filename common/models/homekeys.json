@@ -7,9 +7,7 @@
   },
   "properties": {
     "keyStack": {
-      "type": [
-        "string"
-      ]
+      "type": "array"
     }
   },
   "validations": [],
